@@ -10,6 +10,6 @@ const Hero = () => (
             </div>
         </div>
     </HeroSection>
-);
+)
 
 export default Hero;

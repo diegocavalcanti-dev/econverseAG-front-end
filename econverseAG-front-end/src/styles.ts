@@ -12,6 +12,8 @@ export const cores = {
     brancoLinha: '#F0F0F0',
     corInput: '#F6F5F2',
     boxShadow: '#3930131F',
+    corCategory: '#4E4E4E',
+    corFundoCategory: '#F4F4F4',
 }
 
 export const GlobalCss = createGlobalStyle`
