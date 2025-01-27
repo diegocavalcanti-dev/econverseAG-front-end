@@ -98,7 +98,7 @@ export const HeaderLogo = styled.div`
 
 export const HeaderMenu = styled.div`
     padding: 16px 0;
-    box-shadow: 10px 8px 16px #3930131F; /* Sombra com os valores da imagem */
+    box-shadow: 0px 8px 16px #3930131F; /* Sombra com os valores da imagem */
     position: relative; /* Garante que o Hero comece após o HeaderMenu */
     z-index: 10; /* Mantém o HeaderMenu acima do Hero */
 
