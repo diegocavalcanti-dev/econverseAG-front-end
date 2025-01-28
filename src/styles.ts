@@ -14,6 +14,9 @@ export const cores = {
     boxShadow: '#3930131F',
     corCategory: '#4E4E4E',
     corFundoCategory: '#F4F4F4',
+    corVitrineMenu: '#3B3B3B',
+    corVitrineLinha: '#DEDEDE',
+    corDesconto: '#808080',
 }
 
 export const GlobalCss = createGlobalStyle`
