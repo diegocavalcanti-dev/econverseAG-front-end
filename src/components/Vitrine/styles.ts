@@ -3,7 +3,7 @@ import { cores } from "../../styles";
 
 export const VitrineSection = styled.div`
     max-width: 1280px; /* Limita a largura do conteúdo ao container */
-    margin: 0 auto 80px;
+    margin: 0 auto 90px;
 `
 
 export const VitrineTitle = styled.div`
