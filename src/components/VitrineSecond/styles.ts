@@ -52,35 +52,13 @@ export const VitrineMenu = styled.div`
             display: flex;
             margin: 0 auto;
             justify-content: center;
-        }
-    
-        ul {
-            display: flex; 
-            justify-content: space-between;
-            align-items: center;
-            list-style: none;
-            flex: 1;
-            max-width: 1280px;
-            // border: 1px solid #BDBDBD;
-        }
-    
-        li {
-            font-size: 16px; 
-            font-weight: 400; 
-            font-family: Poppins, sans-serif;
-            color: ${cores.corVitrineMenu};
-            cursor: pointer;
-            line-height: 16px;
-            text-align: center;
-            width: 214px; /* Largura fixa */
-            text-align: center;
-            border: 1px solid #BDBDBD; /* Adiciona a borda direita */
-            padding: 12px 0;
-        }
-    
-        li:hover {
-            color: ${cores.roxo};
-            font-weight: 700;
+            
+            h1 {
+                color: ${cores.cinza};
+                font-size: 16px;
+                font-weight: 700;
+                line-height: 22px;
+            }
         }
 `
 
